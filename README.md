@@ -5,3 +5,7 @@ Data and reanalysis in R for Mesoudi, Whiten & Dunbar (2006) A bias for social i
 **mesoudi2006_reanalysis.R** contains R code to recreate the figures and rerun the analyses. It uses multi-level regression models instead of mixed ANOVAs as in the original (these are equivalent, but regression is more standard these days). I also include a model comparison approach using AIC/BIC rather than p-values.
 
 **Mesoudi_Whiten_Dunbar_BJP_2006.pdf** is a pdf of the original published study.
+
+**propositional_analysis.pdf** contains a general guide to doing propositional analysis, based on Kintsch (1974), as used in this study.
+
+**study2_material** contains the material given to the first person in each chain of Study 2, broken down into the propositions used for coding.
